@@ -118,7 +118,7 @@
   --tw-contain-style:  ;
 }
 
-/* ! tailwindcss v3.4.18 | MIT License | https://tailwindcss.com */
+/* ! tailwindcss v3.4.19 | MIT License | https://tailwindcss.com */
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -746,10 +746,6 @@ video {
   visibility: visible;
 }
 
-.invisible {
-  visibility: hidden;
-}
-
 .collapse {
   visibility: collapse;
 }
@@ -1193,10 +1189,6 @@ video {
   color: var(--color-text);
 }
 
-.underline {
-  text-decoration-line: underline;
-}
-
 .antialiased {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1242,7 +1234,8 @@ video {
   --color-text: #111827;
   --color-text-muted: #6b7280;
   --color-border: #e5e7eb;
-  --color-accent: #a855f7;
+  /*--color-accent: #a855f7;*/
+  --color-accent: #ad2831;
 }
 
 html[data-theme="dark"] {
@@ -1253,7 +1246,8 @@ html[data-theme="dark"] {
   --color-text: #f9fafb;
   --color-text-muted: #9ca3af;
   --color-border: #27272a;
-  --color-accent: #c084fc;
+  --color-accent: #ad2831;
+  /*--color-accent: #c084fc;*/
 }
 
 /* Base Styles */

@@ -1,6 +1,6 @@
 baseURL = 'https://pichok.github.io'
 languageCode = 'pt-br'
-title = 'Minimal Black Theme'
+title = 'GHMP'
 theme = "minimal-black"
 
 # Enable search index generation and web app manifest
@@ -15,7 +15,7 @@ theme = "minimal-black"
   notAlternative = true
 
 [params]
-  brand = "Hugo Minimal Black"
+  brand = "GHMP"
   description = "A minimal, dark-mode first personal site, or whatever else you want it to be about"
 
   # Favicon - Place your favicon files in /static/ directory
@@ -54,102 +54,102 @@ theme = "minimal-black"
     showNowSection = true
     showFeaturedProjects = true
     showLatestPosts = true
-    featuredProjectsLimit = 3
+    featuredProjectsLimit = 4
     latestPostsLimit = 3
-    projectsTitle = "Selected Work"
+    projectsTitle = "Principais Projetos"
     projectsSubtitle = ""
-    blogTitle = "Latest Writing"
+    blogTitle = "Últimos textos"
     blogSubtitle = ""
     techMarqueeLabel = "Experienced In"
 
     # Technology Stack Display
-    [[params.home.tech]]
-      label = "Python"
-      icon = "devicon-python-plain"
+    # [[params.home.tech]]
+    #   label = "Python"
+    #   icon = "devicon-python-plain"
 
-    [[params.home.tech]]
-      label = "Java"
-      icon = "devicon-java-plain"
+    # [[params.home.tech]]
+    #   label = "Java"
+    #   icon = "devicon-java-plain"
 
-    [[params.home.tech]]
-      label = "Spring"
-      icon = "devicon-spring-plain"  
+    # [[params.home.tech]]
+    #   label = "Spring"
+    #   icon = "devicon-spring-plain"  
 
-    [[params.home.tech]]
-      label = "Vaadin"
-      icon = "devicon-vaadin-plain"    
+    # [[params.home.tech]]
+    #   label = "Vaadin"
+    #   icon = "devicon-vaadin-plain"    
 
-    [[params.home.tech]]
-      label = "Debian"
-      icon = "devicon-debian-plain"
+    # [[params.home.tech]]
+    #   label = "Debian"
+    #   icon = "devicon-debian-plain"
 
-    [[params.home.tech]]
-      label = "GitLab"
-      icon = "devicon-gitlab-plain"
+    # [[params.home.tech]]
+    #   label = "GitLab"
+    #   icon = "devicon-gitlab-plain"
 
-    [[params.home.tech]]
-      label = "Docker"
-      icon = "devicon-docker-plain"
+    # [[params.home.tech]]
+    #   label = "Docker"
+    #   icon = "devicon-docker-plain"
 
-    [[params.home.techReverse]]
-      label = "PostgreSQL"
-      icon = "devicon-postgresql-plain"
+    # [[params.home.techReverse]]
+    #   label = "PostgreSQL"
+    #   icon = "devicon-postgresql-plain"
 
-    [[params.home.techReverse]]
-      label = "MongoDB"
-      icon = "devicon-mongodb-plain"
+    # [[params.home.techReverse]]
+    #   label = "MongoDB"
+    #   icon = "devicon-mongodb-plain"
 
-    [[params.home.techReverse]]
-      label = "Git"
-      icon = "devicon-git-plain"
+    # [[params.home.techReverse]]
+    #   label = "Git"
+    #   icon = "devicon-git-plain"
 
-    [[params.home.techReverse]]
-      label = "Hugo"
-      icon = "devicon-hugo-plain"  
+    # [[params.home.techReverse]]
+    #   label = "Hugo"
+    #   icon = "devicon-hugo-plain"  
 
-    [[params.home.techReverse]]
-      label = "Jenkins"
-      icon = "devicon-jenkins-plain"   
+    # [[params.home.techReverse]]
+    #   label = "Jenkins"
+    #   icon = "devicon-jenkins-plain"   
 
-    [[params.home.techReverse]]
-      label = "JetBrains"
-      icon = "devicon-jetbrains-plain" 
+    # [[params.home.techReverse]]
+    #   label = "JetBrains"
+    #   icon = "devicon-jetbrains-plain" 
 
-    [[params.home.techReverse]]
-      label = "Json"
-      icon = "devicon-json-plain" 
+    # [[params.home.techReverse]]
+    #   label = "Json"
+    #   icon = "devicon-json-plain" 
 
-    [[params.home.techReverse]]
-      label = "Linux"
-      icon = "devicon-linux-plain"          
+    # [[params.home.techReverse]]
+    #   label = "Linux"
+    #   icon = "devicon-linux-plain"          
 
-    [[params.home.techReverse]]
-      label = "Liquibase"
-      icon = "devicon-liquibase-plain" 
+    # [[params.home.techReverse]]
+    #   label = "Liquibase"
+    #   icon = "devicon-liquibase-plain" 
 
-    [[params.home.techReverse]]
-      label = "Markdown"
-      icon = "devicon-markdown-original"  
+    # [[params.home.techReverse]]
+    #   label = "Markdown"
+    #   icon = "devicon-markdown-original"  
 
-    [[params.home.techReverse]]
-      label = "YAML"
-      icon = "devicon-yaml-plain"  
+    # [[params.home.techReverse]]
+    #   label = "YAML"
+    #   icon = "devicon-yaml-plain"  
 
-    [[params.home.techReverse]]
-      label = "Wordpress"
-      icon = "devicon-wordpress-plain"
+    # [[params.home.techReverse]]
+    #   label = "Wordpress"
+    #   icon = "devicon-wordpress-plain"
 
-    [[params.home.techReverse]]
-      label = "WooCommerce"
-      icon = "devicon-woocommerce-plain"            
+    # [[params.home.techReverse]]
+    #   label = "WooCommerce"
+    #   icon = "devicon-woocommerce-plain"            
 
-    [[params.home.techReverse]]
-      label = "Traefik"
-      icon = "devicon-traefikproxy-plain" 
+    # [[params.home.techReverse]]
+    #   label = "Traefik"
+    #   icon = "devicon-traefikproxy-plain" 
 
-    [[params.home.techReverse]]
-      label = "pfSense"
-      icon = "devicon-pfsense-plain"       
+    # [[params.home.techReverse]]
+    #   label = "pfSense"
+    #   icon = "devicon-pfsense-plain"       
 
   # About Page Alternative Layout Configuration - Optional
   [params.about.alt]
@@ -194,21 +194,21 @@ theme = "minimal-black"
   # Hero Section Configuration
   [params.hero]
     badge = "Médico e Programador"
-    title = "Olá, eu sou Guilherme H. M. Pichok"
-    role = "Subtitle for title with role perspective"
-    summary = "You can write your summary to be displayed here."
-    avatar = "https://picsum.photos/400"  # Optional: 400x400px recommended
+    title = "Dr. Guilherme H. M. Pichok"
+    role = "Médico Generalista"
+    summary = "Faço ferramentas para ajudar no estudo da medicina, estudo e escrevo."
+    # avatar = "https://picsum.photos/400"  # Optional: 400x400px recommended
     location = "Paraná, Brasil"
-    focus = "Currently focused on Hugo themes & developer experience."
+    focus = "Focado em Revalida + Residência Médica."
     available = false
     # availableLabel = "Available for work"
 
-    nowLabel = "Quick Facts"
-    nowIntro = "Right now I'm mainly:"
+    nowLabel = "Fatos rápidos sobre mim"
+    nowIntro = "Nesse momento, estou principalmente estudando para:"
     now = [
-      "Building minimal Hugo themes",
-      "Exploring dark-mode design patterns",
-      "Writing about web performance"
+      "Residência Médica/ENARE",
+      "Desenvolver ferramentas de apoio ao estudo",
+      "Utilizar IA na melhoria da saúde pública"
     ]
 
     [params.hero.primary]
@@ -274,23 +274,23 @@ theme = "minimal-black"
     [menu.main.params]
       icon = "fa-solid fa-house"
 
-  [[menu.main]]
-    name = "About"
-    pageRef = "about"
-    url = "/about/"
-    weight = 2
-    identifier = "about"
-    [menu.main.params]
-      icon = "fa-regular fa-user"
+  # [[menu.main]]
+  #   name = "About"
+  #   pageRef = "about"
+  #   url = "/about/"
+  #   weight = 2
+  #   identifier = "about"
+  #   [menu.main.params]
+  #     icon = "fa-regular fa-user"
 
-  [[menu.main]]
-    name = "About Alt"
-    pageRef = "about-alternative"
-    url = "/about-alternative/"
-    weight = 2
-    identifier = "about-alternative"
-    [menu.main.params]
-      icon = "fa-solid fa-user"
+  # [[menu.main]]
+  #   name = "About Alt"
+  #   pageRef = "about-alternative"
+  #   url = "/about-alternative/"
+  #   weight = 2
+  #   identifier = "about-alternative"
+  #   [menu.main.params]
+  #     icon = "fa-solid fa-user"
 
   [[menu.main]]
     name = "Projects"

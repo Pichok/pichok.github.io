@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>React on GHMP</title>
+		<link>http://localhost:1313/tags/react/</link>
+		<description>Recent content in React on GHMP</description>
+		<generator>Hugo</generator>
+		<language>pt-br</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 06 Jul 2026 19:08:11 -0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/react/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Estatísticas do ENARE/ENAMED</title>
+				<link>http://localhost:1313/projects/enare-estatistica/</link>
+				<pubDate>Mon, 06 Jul 2026 19:08:11 -0300</pubDate>
+				<guid>http://localhost:1313/projects/enare-estatistica/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Brainscape</title>
+				<link>http://localhost:1313/projects/brainscape/</link>
+				<pubDate>Mon, 06 Jul 2026 19:07:40 -0300</pubDate>
+				<guid>http://localhost:1313/projects/brainscape/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gasometria Arterial</title>
+				<link>http://localhost:1313/projects/gasometria/</link>
+				<pubDate>Mon, 06 Jul 2026 19:07:22 -0300</pubDate>
+				<guid>http://localhost:1313/projects/gasometria/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dellisola</title>
+				<link>http://localhost:1313/projects/dellisola/</link>
+				<pubDate>Mon, 06 Jul 2026 19:07:05 -0300</pubDate>
+				<guid>http://localhost:1313/projects/dellisola/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>NIHSS</title>
+				<link>http://localhost:1313/projects/nihss/</link>
+				<pubDate>Mon, 06 Jul 2026 19:06:31 -0300</pubDate>
+				<guid>http://localhost:1313/projects/nihss/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Glasgow P</title>
+				<link>http://localhost:1313/projects/glasgow-p/</link>
+				<pubDate>Mon, 06 Jul 2026 16:34:37 -0300</pubDate>
+				<guid>http://localhost:1313/projects/glasgow-p/</guid>
+				<description>&lt;p&gt;Project details&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

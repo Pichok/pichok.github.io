@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Projects on GHMP</title>
+		<link>http://localhost:1313/projects/</link>
+		<description>Recent content in Projects on GHMP</description>
+		<generator>Hugo</generator>
+		<language>pt-br</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 06 Jul 2026 19:08:11 -0300</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Estatísticas do ENARE/ENAMED</title>
+				<link>http://localhost:1313/projects/enare-estatistica/</link>
+				<pubDate>Mon, 06 Jul 2026 19:08:11 -0300</pubDate>
+				<guid>http://localhost:1313/projects/enare-estatistica/</guid>
+				<description>&lt;h2 id=&#34;introdução&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;#introdu%c3%a7%c3%a3o&#34; class=&#34;md-heading-anchor&#34;&gt;&#xD;&#xA;    Introdução&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h2 id=&#34;método&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;#m%c3%a9todo&#34; class=&#34;md-heading-anchor&#34;&gt;&#xD;&#xA;    Método&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h2 id=&#34;resultado&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;#resultado&#34; class=&#34;md-heading-anchor&#34;&gt;&#xD;&#xA;    Resultado&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;h2 id=&#34;discussão&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;#discuss%c3%a3o&#34; class=&#34;md-heading-anchor&#34;&gt;&#xD;&#xA;    Discussão&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;</description>
+			</item>
+			<item>
+				<title>Brainscape</title>
+				<link>http://localhost:1313/projects/brainscape/</link>
+				<pubDate>Mon, 06 Jul 2026 19:07:40 -0300</pubDate>
+				<guid>http://localhost:1313/projects/brainscape/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gasometria Arterial</title>
+				<link>http://localhost:1313/projects/gasometria/</link>
+				<pubDate>Mon, 06 Jul 2026 19:07:22 -0300</pubDate>
+				<guid>http://localhost:1313/projects/gasometria/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Dellisola</title>
+				<link>http://localhost:1313/projects/dellisola/</link>
+				<pubDate>Mon, 06 Jul 2026 19:07:05 -0300</pubDate>
+				<guid>http://localhost:1313/projects/dellisola/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>NIHSS</title>
+				<link>http://localhost:1313/projects/nihss/</link>
+				<pubDate>Mon, 06 Jul 2026 19:06:31 -0300</pubDate>
+				<guid>http://localhost:1313/projects/nihss/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Glasgow P</title>
+				<link>http://localhost:1313/projects/glasgow-p/</link>
+				<pubDate>Mon, 06 Jul 2026 16:34:37 -0300</pubDate>
+				<guid>http://localhost:1313/projects/glasgow-p/</guid>
+				<description>&lt;p&gt;Project details&amp;hellip;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
