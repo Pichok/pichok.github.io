@@ -4,7 +4,7 @@ title = 'Links Uteis'
 author = "Guilherme H. M. Pichok"
 tags = ["medicina"]
 categories = ["util"]
-draft = true
+draft = false
 +++
 
 Aqui deixo links úteis de fácil acesso separados por área de interesse.
