@@ -1,0 +1,9 @@
+:root {
+  --color-bg: #f9fafb;        /* Light background */
+  --color-accent: #ad2831;     /* Purple accent */
+}
+
+html[data-theme="dark"] {
+  --color-bg: #000000;         /* True black */
+  --color-accent: #ad2831 !important;     /* Lighter purple */
+}
