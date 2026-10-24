@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Util on GHMP</title>
-		<link>http://localhost:1313/categories/util/</link>
+		<link>https://pichok.github.io/categories/util/</link>
 		<description>Recent content in Util on GHMP</description>
 		<generator>Hugo</generator>
 		<language>pt-br</language>
@@ -12,13 +12,20 @@
 		
 			<lastBuildDate>Mon, 06 Jul 2026 22:17:41 -0300</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/categories/util/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://pichok.github.io/categories/util/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Falta de Vacina foi Negócio - Referências</title>
+				<link>https://pichok.github.io/blog/vacinas/</link>
+				<pubDate>Mon, 06 Jul 2026 22:17:41 -0300</pubDate>
+				<guid>https://pichok.github.io/blog/vacinas/</guid>
+				<description>&lt;p&gt;Vacina era uma corrida contra o tempo. Quem ganhou com a demora? 💉💰 Enquanto famílias esperavam proteção, quais interesses estavam em jogo?&lt;/p&gt;&#xA;&lt;p&gt;Neste vídeo, @oatila reúne reportagens sobre a compra de vacinas, as decisões do governo Bolsonaro e sua família (incluindo Flávio Bolsonaro) e os negócios que cercaram esse processo.&lt;/p&gt;&#xA;&lt;p&gt;Porque, por trás de cada número, havia uma vida. Uma família. Um futuro. Lembrar é também é respeitar quem não voltou e sofreu durante a pandemia.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Links Uteis</title>
-				<link>http://localhost:1313/blog/links-uteis/</link>
+				<link>https://pichok.github.io/blog/links-uteis/</link>
 				<pubDate>Mon, 06 Jul 2026 22:17:41 -0300</pubDate>
-				<guid>http://localhost:1313/blog/links-uteis/</guid>
-				<description>&lt;p&gt;Aqui vou deixar links úteis de fácil acesso separados por área de interesse.&lt;/p&gt;&#xA;&lt;h2 id=&#34;medicina&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;#medicina&#34; class=&#34;md-heading-anchor&#34;&gt;&#xD;&#xA;    Medicina&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;</description>
+				<guid>https://pichok.github.io/blog/links-uteis/</guid>
+				<description>&lt;p&gt;Aqui deixo links úteis de fácil acesso separados por área de interesse.&lt;/p&gt;&#xA;&lt;h2 id=&#34;medicina&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;#medicina&#34; class=&#34;md-heading-anchor&#34;&gt;&#xD;&#xA;    Medicina&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a&#xD;&#xA;  href=&#34;https://www.msdmanuals.com/pt/profissional/pages-with-widgets/videos?mode=list&#34;&#xD;&#xA;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;  class=&#34;md-link&#34;&#xD;&#xA;&gt;&#xD;&#xA;  Vídeos de procedimentos médicos (MSD Manuals)&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xD;&#xA;  href=&#34;https://www.msdmanuals.com/pt/profissional/pages-with-widgets/calculadoras-cl%c3%adnicas?mode=list&#34;&#xD;&#xA;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;  class=&#34;md-link&#34;&#xD;&#xA;&gt;&#xD;&#xA;  Calculadoras clínicas (MSD Manuals)&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xD;&#xA;  href=&#34;https://glasgow-pupil-mentor.lovable.app/&#34;&#xD;&#xA;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;  class=&#34;md-link&#34;&#xD;&#xA;&gt;&#xD;&#xA;  Glasgow-P Simulador (elaboração própria)&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a&#xD;&#xA;  href=&#34;http://www.ecglibrary.com/ecghome.php&#34;&#xD;&#xA;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;  class=&#34;md-link&#34;&#xD;&#xA;&gt;&#xD;&#xA;  ECG library (Dr. Dean Jenkins e Dr. Stephen Gerred)&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>
