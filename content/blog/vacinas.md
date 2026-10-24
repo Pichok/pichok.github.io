@@ -4,6 +4,7 @@ title = 'Falta de Vacina foi Negócio - Referências'
 author = "Átila Iamarino"
 tags = ["medicina"]
 categories = ["util"]
+url = "/vacinas/"
 draft = false
 +++
 
@@ -25,7 +26,7 @@ Assista até o fim, verifique as informações e jamais esqueça. A política im
 
 Compartilhe para que mais pessoas conheçam as reportagens e não deixem esquecer que o risco existe em colocar no poder mercenários, milicianos e negacionistas.
 
-## Medicina
+## Referências
 - [Piauí — Flávio Bolsonaro, churrasco, lancha e vacina](https://piaui.uol.com.br/web/flavio-bolsonaro-churrasco-lancha-vacina/)
 - [G1 — Indiana Bharat fecha acordo para fornecer vacina contra Covid-19 a empresa brasileira](https://g1.globo.com/bemestar/vacina/noticia/2021/01/12/indiana-bharat-fecha-acordo-para-fornecer-vacina-contra-covid-19-a-empresa-brasileira.ghtml)
 - [Correio Braziliense — Bolsonaro recusou vacina da Pfizer em 2020 por metade do preço](https://www.correiobraziliense.com.br/politica/2021/06/4929536-bolsonaro-recusou-vacina-da-pfizer-em-2020-por-metade-do-preco.html)
