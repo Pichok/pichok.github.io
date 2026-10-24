@@ -4,7 +4,6 @@ title = 'Falta de Vacina foi Negócio - Referências'
 author = "Átila Iamarino"
 tags = ["medicina"]
 categories = ["util"]
-url = "/vacinas/"
 draft = false
 +++
 
