@@ -4,7 +4,6 @@ title = 'Whitebook - Abrir Conteúdos em Nova Guia'
 description = "Userscript para Tampermonkey que habilita a abertura de tópicos, bulas, calculadoras, cards de categoria e listas de subcategorias do Whitebook Web em novas guias do navegador, mantendo a página original intacta (sem recarregar, fechar acordeões ou perder a posição de rolagem)."
 github = "https://github.com/Pichok/whitebook-nova-guia/"
 install = "https://raw.githubusercontent.com/Pichok/whitebook-nova-guia/main/whitebook-nova-guia.user.js"
-demo = "https://raw.githubusercontent.com/Pichok/whitebook-nova-guia/main/whitebook-nova-guia.user.js"
 tags = ["javascript"]
 featured = true
 draft = false
