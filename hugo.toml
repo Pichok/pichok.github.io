@@ -52,7 +52,7 @@ theme = "minimal-black"
   [params.home]
     sections = ["hero", "now", "tech-marquee", "projects", "posts"]
     showNowSection = true
-    showFeaturedProjects = false
+    showFeaturedProjects = true
     showLatestPosts = false
     featuredProjectsLimit = 4
     latestPostsLimit = 3

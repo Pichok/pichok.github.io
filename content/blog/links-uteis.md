@@ -14,3 +14,6 @@ Aqui deixo links úteis de fácil acesso separados por área de interesse.
 - [Calculadoras clínicas (MSD Manuals)](https://www.msdmanuals.com/pt/profissional/pages-with-widgets/calculadoras-clínicas?mode=list)
 - [Glasgow-P Simulador (elaboração própria)](https://glasgow-pupil-mentor.lovable.app/)
 - [ECG library (Dr. Dean Jenkins e Dr. Stephen Gerred)](http://www.ecglibrary.com/ecghome.php)
+
+## Ciência de Dados
+- [R para Ciência de Dados (2ª edição)](https://pt.r4ds.hadley.nz/)
